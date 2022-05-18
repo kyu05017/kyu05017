@@ -7,8 +7,9 @@
   :smile: 안녕하세요 개발자 김규석입니다. :smile:
   <br>
   <br>
-  <br>
   :fire: 성실하며 언제나 배우려는 자세로 임하는 중입니다. :fire:
+  <br>
+  <br>
 </p>
 
 <p align="center">
