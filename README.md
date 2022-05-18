@@ -59,5 +59,5 @@
 <a href="#">java : 영화관 시스템</a><br>
 <a href="#">javafx : pc방 사용자 및 관리자 시스템</a><br>
 <a href="#">jsp : 쇼핑몰</a><br>
-<a href="#">>spring : 쇼핑몰</a><br>  
+<a href="#">spring : 쇼핑몰</a><br>  
 </p>
