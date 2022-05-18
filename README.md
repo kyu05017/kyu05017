@@ -1,13 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=개발자 김규석 &fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=개발자 김규석 &fontSize=90" />
 <p align="center">
-# 개발자 김규석
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyu05017&count_bg=%2381DEFB&title_bg=%23000000&icon=reddit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyu05017&langs_count=8)](https://github.com/kyu05017/github-readme-stats)
-
-
 <h2 align="center">TECH STACK</h2>
 
 <p align="center">
