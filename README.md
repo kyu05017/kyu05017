@@ -53,4 +53,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 
-<h2 align="center">  :vs: GIT :vs:</h2>
+<h2 align="center">  :newspaper: PROJECT :newspaper:</h2>
