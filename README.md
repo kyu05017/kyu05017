@@ -2,16 +2,16 @@
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyu05017&count_bg=%2381DEFB&title_bg=%23000000&icon=reddit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
-<h2 align="center">TECH STACK</h2>
 
 <p align="center">
-  안녕하세요 개발자 김규석입니다.
+  :smile: 안녕하세요 개발자 김규석입니다. :smile:
 </p>
 
 <p align="center">
   :email: EMAIL : kyu05017@naver.com :email:
 </p>
 
+<h2 align="center">TECH STACK</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
