@@ -11,7 +11,7 @@
   :fire: 성실하며 언제나 배우려는 자세로 임하는 중입니다. :fire:
 </p>
 
-<span>
+<span align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kyu05017&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyu05017&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </span>
