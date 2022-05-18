@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  EMAIL : kyu05017@naver.com
+  :email: EMAIL : kyu05017@naver.com :email:
 </p>
 
 <p align="center">
