@@ -5,7 +5,9 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyu05017&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyu05017&langs_count=8)](https://github.com/kyu05017/github-readme-stats)
+
+출처: https://yoon990.tistory.com/38 [개발저장소]
 
 <h2 align="center">TECH STACK</h2>
 
