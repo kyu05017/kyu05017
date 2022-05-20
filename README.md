@@ -61,6 +61,6 @@
 <a href="#">java : PC방 시스템</a><br>
 <a href="#">java : 영화관 시스템</a><br>
 <a href="#">java : PC방</a><br>
-<a href="#">jsp : 쇼핑몰</a><br>
-<a href="#">spring : 쇼핑몰</a><br>  
+<a href="#"> 2. jsp : 쇼핑몰</a><br>
+<a href="#"> 1. spring : 쇼핑몰</a><br>  
 </p>
