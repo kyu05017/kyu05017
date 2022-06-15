@@ -63,5 +63,5 @@
 <a href="#">java : PC방</a><br>
 <a href="#">jsp : 부르마블</a><br>
 <a href="https://github.com/kyu05017/shop_spring">Spring : 쇼핑몰</a><br>   
-<a href="https://github.com/kyu05017/shop_spring">Spring-React : 골목학원</a><br>
+<a href="https://github.com/kyu05017/AlleyAcademy">Spring-React : 골목학원(진행중)</a><br>
 </p>
