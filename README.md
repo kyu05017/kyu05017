@@ -63,5 +63,5 @@
 <a href="https://github.com/kyu05017/JAVA_FX">javaFX : 중고싸이트 </a><br>
 <a href="https://github.com/kyu05017/JSP_BlueMarble-master">jsp : 부르마블</a><br>
 <a href="https://github.com/kyu05017/shop_spring">Spring : 쇼핑몰</a><br>   
-<a href="https://github.com/kyu05017/AlleyAcademy">Spring-React : 골목학원(진행중)</a><br>
+<a href="https://github.com/swh7j/AlleyAcademy/tree/KKS2">Spring-React : 골목학원(진행중)</a><br>
 </p>
